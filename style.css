@@ -1,0 +1,10 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .carousel {
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
